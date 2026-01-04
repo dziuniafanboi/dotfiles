@@ -7,3 +7,5 @@ HISTFILESIZE=2000
 HISTTIMEFORMAT="%y/%m/%d %T "
 
 FCEDIT=/usr/bin/vim
+
+PS1='\u:\W\$ '
